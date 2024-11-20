@@ -4,7 +4,7 @@ I am Jeslyn Poulson👋
 🌱 I’m currently learning: SQL, Python and Data Visualisation Tools  
 👯 I’m looking to collaborate with other Data Enthusiasts  
 💬 Ask me about Data Analytics, SQL, Python, or anything data-related!  
-📫 How to reach me: Email me at [Link text](URL)jeslynpaul1015@gmail.com  
+📫 How to reach me: Email me at [jeslynpaul1015@gmail.com](URL) 
 😄 Pronouns: She/Her  
 ⚡ Fun fact: I once automated a process that saved 16 hours of manual work each week, giving my team more time for creative solutions!  
 <!--
