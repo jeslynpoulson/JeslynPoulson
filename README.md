@@ -1,6 +1,6 @@
 ## Hi there, 
 I am Jeslyn Poulson👋  
-🔭 I’m currently working on Data Analysis Project  
+🔭 I’m currently working on Data Analysis Projects    
 🌱 I’m currently learning: SQL, Python and Data Visualisation Tools  
 👯 I’m looking to collaborate with other Data Enthusiasts  
 💬 Ask me about Data Analytics, SQL, Python, or anything data-related!  
