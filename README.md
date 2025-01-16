@@ -4,7 +4,8 @@ I am Jeslyn Poulson👋
 🌱 I’m currently learning: SQL, Python and Data Visualisation Tools  
 👯 I’m looking to collaborate with other Data Enthusiasts  
 💬 Ask me about Data Analytics, SQL, Python, or anything data-related!  
-📫 How to reach me: Email me at [jeslynpaul1015@gmail.com](mailto:jeslynpaul1015@gmail.com)    
+📫 How to reach me: Email me at [jeslynpaul1015@gmail.com](mailto:jeslynpaul1015@gmail.com)  
+⚡ Here is my Tableau Dashboard [Your Link Here](https://public.tableau.com/app/profile/jeslyn.poulson/viz/Covid_Vaccinations_17370647699790/GlobalVaccineTracker?publish=yes])
 😄 Pronouns: She/Her  
 ⚡ Fun fact: I once automated a process that saved 16 hours of manual work each week, giving my team more time for creative solutions!  
 <!--
